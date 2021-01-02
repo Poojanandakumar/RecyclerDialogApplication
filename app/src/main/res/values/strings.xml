@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerDialogApplication</string>
+    <string name="create_new">create_new</string>
+    <string name="delete">delete</string>
+    <string name="open">Edit</string>
+    <string name="edit">Edit</string>
+</resources>
